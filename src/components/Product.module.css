@@ -1,0 +1,19 @@
+.prodImg {
+    width: 100%;
+}
+
+.title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 0%;
+}
+
+.desc {
+    color: darkgrey;
+    margin-bottom: 50px;
+}
+
+
+span {
+    font-weight: bold;
+}
