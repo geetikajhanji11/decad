@@ -104,6 +104,6 @@ First, you need to download and install node.js and npm.
 <!-- CONTACT -->
 ## Contact
 
-Email - vidushityagi8@gmail.com
+Email - geetikajhanji11@gmail.com
 
 
